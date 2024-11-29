@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gustavo
 - Fullstack Java Sr Dev
-- 👀 I’m interested in privacy and secure coding
+- I’m interested in privacy and secure coding
 - Some about my tech: [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,linux,git,gitlab,maven,idea,mastodon,mysql,neovim,raspberrypi,vim,)](https://skillicons.dev)
 - 🌱 I like DevSecOps
 
